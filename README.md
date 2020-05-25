@@ -18,7 +18,7 @@ For detailed procedure, please check the report.
 We used transfer learning in this project as the dataset is small. We tried various models. Inception gave us the best results. 
 
 ## Architecture
-
+Inception architecture
 ## Results 
 
 Please check the notebook PCB_classification.ipynb for the code. 
